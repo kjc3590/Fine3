@@ -1,47 +1,16 @@
-jQuery(window).on('load', function(){
-/*	  //preloader
-    $("#status").fadeOut(); // will first fade out the loading animation
-	   $("#preloader").delay(800).fadeOut("slow"); // will fade out the white DIV that covers the website.
-*/
-	   
-	
-});
+var a = true;
 
-$(document).ready(function() {
+	function menu33() {
+		if (a == true) {
+			jQuery('.navbar-default .navbar-collapse').css("display", "block");
+			a = false;
+			jQuery('.wrap').css("padding", "25rem 0 5% 0");
+		} else if (a == false) {
+			jQuery('.navbar-default .navbar-collapse').css("display", "none");
+			a = true;
+			jQuery('.wrap').css("padding", "0 0 5% 0");
+		}
+	}
 
-
-
-	 $("#owl-demo").owlCarousel({
-		 
-	      navigation : true, // Show next and prev buttons
-	 
-	      slideSpeed : 300,
-	      paginationSpeed : 400,
-	 
-	      items : 1, 
-	      itemsDesktop : false,
-	      itemsDesktopSmall : false,
-	      itemsTablet: false,
-	      itemsMobile : false
-	 
-	  });
-
-
-
-/*	 Nivo lightbox
-    -----------------------------------------------
-
-	$('#portfolio .portfolio-thumb .portfolio-overlay .portfolio-item').nivoLightbox({
-		effect: 'fadeScale',
-	});
-*/
-
-
-
-
-
-
-
-});
 
 

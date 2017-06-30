@@ -29,6 +29,9 @@ html, body {
 	margin-left:auto;
 	min-height:100%;
 }
+.wrap{
+	transition : .5s;
+}
 
 .carousel {
 	position:relative;
@@ -323,7 +326,13 @@ a {
 	border: 2.6px solid darkgray;
 }
 .footer{
-   
+	height: 8em;
+	background: RGB(127,206,244);
+}
+
+.footer_contents {
+   padding-top: 2em;
+   height: 8em;
    background: RGB(127,206,244);
 }
 
@@ -359,4 +368,7 @@ a {
 	font-size:1.7em;
 	color:white;
 	padding:0.5em;
+}
+#map-canvas {
+	height: 72vh;
 }

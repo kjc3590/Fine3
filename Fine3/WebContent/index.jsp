@@ -14,29 +14,11 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="assets/css/responsive.css">
 
-
-<script type="text/javascript">
-	var a = true;
-
-	function menu33() {
-		if (a == true) {
-			jQuery('.navbar-default .navbar-collapse').css("display", "block");
-			a = false;
-			jQuery('.owl-wrapper-outer').css("padding", "25rem 0 5% 0");
-			console.log(a);
-		} else if (a == false) {
-			jQuery('.navbar-default .navbar-collapse').css("display", "none");
-			a = true;
-			jQuery('.owl-wrapper-outer').css("padding", "0 0 5% 0");
-			console.log(a);
-		}
-	}
-</script>
 </head>
 <body>
 
 	<%@ include file="/include/header.jsp"%>
-	<div id="wrap">
+	<div id="wrap" class="wrap">
 		<div id="owl-demo" class="owl-carousel owl-theme">
 			<div class="item">
 				<div class="owl-overlay">
@@ -83,7 +65,7 @@
 					<div class="item col-md-4">
 						<img src="assets/images/best1.png">
 					</div>
-					<button class="btnS">LEARN MORE</button>
+					<button class="btnS" type="button">LEARN MORE</button>
 				</div>
 			</div>
 		</div>
@@ -95,6 +77,7 @@
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/owl.js"></script>
 	<script src="assets/js/custom.js"></script>
 
 </body>
