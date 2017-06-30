@@ -61,11 +61,8 @@
 		</div>
 	</div>
 	
-	<div class ="footer">
+	<%@ include file="include/footer.jsp" %>
 	
-	</div>
-
-
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
