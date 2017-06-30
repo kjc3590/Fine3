@@ -33,34 +33,26 @@
 	}
 </script>
 </head>
-<body>
+<body>  
 
 	<%@ include file="/include/header.jsp"%>
 	<div id="wrap">
-			<div id="owl-demo" class="owl-carousel owl-theme">
-				<div class="item">
-					<div class="owl-overlay">
-						<img src="assets/images/fine-logo.png">
-						<h2>
-							파인인사이트는 <span class="gray">사용자 경험 중심의<br>서비스 디자인을
-								연구하는
-							</span><br>크리에이티브 디자인 그룹<span class="gray">입니다.</span>
-						</h2>
-						<p>
-							WEB&MOBILE UI UX,BRAND DESIGN <br>뉴미디어의 새로운 디스플레이 환경에 맞는 사용자
-							중심의 디자인 컨설팅을 제공합니다.
-						</p>
-					</div>
-					<img src="assets/images/full-image.png" alt="The Last of us">
+		<div id="owl-demo" class="owl-carousel owl-theme">
+			<div class="item">
+				<div class="owl-overlay">
+					<img src="assets/images/fine-logo.png">
+					<h2>
+						파인인사이트는 <span class="gray">사용자 경험 중심의<br>서비스 디자인을 연구하는
+						</span><br>크리에이티브 디자인 그룹<span class="gray">입니다.</span>
+					</h2>
+					<p>
+						WEB&MOBILE UI UX,BRAND DESIGN <br>뉴미디어의 새로운 디스플레이 환경에 맞는 사용자
+						중심의 디자인 컨설팅을 제공합니다.
+					</p>
 				</div>
-				<div class="item">
-					<img src="assets/images/full-image.png" alt="GTA V">
-				</div>
-				<div class="item">
-					<img src="assets/images/full-image.png" alt="Mirror Edge">
-				</div>
-
+				<img src="assets/images/full-image.png" alt="The Last of us">
 			</div>
+<<<<<<< HEAD
 			<div class="container" id="container">
 			
 			<div class="in-container-header">
@@ -79,9 +71,19 @@
 			
 			</div>
 			
+=======
+			<div class="item">
+				<img src="assets/images/full-image.png" alt="GTA V">
+			</div>
+			<div class="item">
+				<img src="assets/images/full-image.png" alt="Mirror Edge">
+			</div>
+		</div>
+>>>>>>> branch 'master' of https://github.com/kjc3590/Fine3.git
 	</div>
-
-
+	
+	<%@ include file="include/footer.jsp" %>
+	
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
