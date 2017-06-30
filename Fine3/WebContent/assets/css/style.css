@@ -183,8 +183,8 @@ a {
 #owl-demo .item .owl-overlay img {
 	width:17rem;
 	height:auto;
-	margin:0 auto 3rem;
-	padding-top:17rem;
+	margin:0 auto 3.5rem;
+	padding-top:15.5rem;
 }
 
 #owl-demo .item .owl-overlay h2 {
@@ -218,10 +218,32 @@ a {
     height: auto;
 }
 .owl-wrapper-outer {
-	padding:0 0 5% 0;
+	padding:0 0 0 0;
 }
 
 .owl-carousel .owl-wrapper-outer {
 	
 	transition:.5s;
+}
+
+.owl-theme .owl-controls {
+   position:absolute;
+   top:85%;
+   left:47.97%;
+}
+
+
+.owl-theme .owl-controls .owl-page span {
+   background:transparent;
+   border-color:white;
+   border:2.5px solid white;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+   background:black;
+   display:none;
+}
+
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	background:white;
 }
