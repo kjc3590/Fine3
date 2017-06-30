@@ -33,7 +33,7 @@
 	}
 </script>
 </head>
-<body>  
+<body>
 
 	<%@ include file="/include/header.jsp"%>
 	<div id="wrap">
@@ -52,38 +52,46 @@
 				</div>
 				<img src="assets/images/full-image.png" alt="The Last of us">
 			</div>
-<<<<<<< HEAD
-			<div class="container" id="container">
-			
-			<div class="in-container-header">
-			<p>How We Do</p><img src="assets/images/stroke.png">
-			</div>
-			<div class="container-item">
-			<h3><span class="black">Achieving<br>Real Results for Our Clients</span><br>Our solutions are strategic and based on analytical discovery</h3>
-			<div class="img-box">
-			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
-			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
-			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
-			<button class="btnS">LEARN MORE</button>
-			</div>
-			</div>
-			
-			
-			</div>
-			
-=======
-			<div class="item">
-				<img src="assets/images/full-image.png" alt="GTA V">
-			</div>
 			<div class="item">
 				<img src="assets/images/full-image.png" alt="Mirror Edge">
 			</div>
+			<div class="item">
+				<img src="assets/images/full-image.png" alt="GTA V">
+			</div>
 		</div>
->>>>>>> branch 'master' of https://github.com/kjc3590/Fine3.git
+
+		<div class="How">
+		<div class="container" id="container">
+			<div class="in-container-header">
+				<p>How We Do</p>
+				<img src="assets/images/stroke.png">
+			</div>
+			<div class="container-item">
+				<h3>
+					<span class="black">Achieving<br>Real Results for Our
+						Clients
+					</span><br>Our solutions are strategic and based on analytical
+					discovery
+				</h3>
+				<div class="img-box">
+					<div class="item col-md-4">
+						<img src="assets/images/best1.png">
+					</div>
+					<div class="item col-md-4">
+						<img src="assets/images/best1.png">
+					</div>
+					<div class="item col-md-4">
+						<img src="assets/images/best1.png">
+					</div>
+					<button class="btnS">LEARN MORE</button>
+				</div>
+			</div>
+		</div>
+		</div>
+	<%@ include file="include/footer.jsp"%>
 	</div>
-	
-	<%@ include file="include/footer.jsp" %>
-	
+
+
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>

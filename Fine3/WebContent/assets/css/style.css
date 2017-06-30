@@ -30,11 +30,6 @@ html, body {
 	min-height:100%;
 }
 
-.container {
-	padding-top:6rem;
-	padding-bottom:6rem;
-} 
-
 .carousel {
 	position:relative;
 }
@@ -255,7 +250,6 @@ a {
 	background:white;
 }
 
-<<<<<<< HEAD
 .owl-theme .owl-controls .owl-page {
 
 }
@@ -327,10 +321,16 @@ a {
 	background: transparent;
 	padding: 0.4rem 4rem 0.4rem 4rem;
 	border: 2.6px solid darkgray;
-=======
+}
 .footer{
-	margin-top : -1.9em;
-	height: 1.9em;
-	background: grey;
->>>>>>> branch 'master' of https://github.com/kjc3590/Fine3.git
+   height: 8em;
+   background: RGB(127,206,244);
+}
+
+.footer_contents {
+    padding-top: 2em;
+}
+.How{
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 }
