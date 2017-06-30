@@ -91,7 +91,7 @@ a {
 }
 
 .navbar-header {
-	margin-left: 60px;
+	margin-left: 80px;
 	margin-top:20px;
 }
 .navbar {
@@ -323,14 +323,40 @@ a {
 	border: 2.6px solid darkgray;
 }
 .footer{
-   height: 8em;
+   
    background: RGB(127,206,244);
 }
 
 .footer_contents {
     padding-top: 2em;
+    padding-bottom:2em;
+    line-height:1.6rem;
 }
+
+.footer_contents span {
+	display:block;
+	font-size:1.2rem;
+	color:white;
+}
+
+.footer_contents img {
+	width:80px;
+	height:auto;
+	margin-bottom:10px;
+}
+
+.footer_contents .icon-box {
+	float:right;
+	padding-top:1.5em;
+}
+
 .How{
 	padding-top: 6rem;
 	padding-bottom: 6rem;
+}
+
+.fa {
+	font-size:1.7em;
+	color:white;
+	padding:0.5em;
 }
