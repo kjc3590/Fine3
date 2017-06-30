@@ -253,7 +253,11 @@ a {
 }
 
 .footer{
-	margin-top : -1.9em;
-	height: 1.9em;
-	background: grey;
+	margin-top : -8em;
+	height: 8em;
+	background: RGB(127,206,244);
+}
+
+.footer_contents {
+    padding-top: 2em;
 }

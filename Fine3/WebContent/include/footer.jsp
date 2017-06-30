@@ -2,5 +2,10 @@
 	pageEncoding="UTF-8"%>
 
 <div class="footer">
-	Copyrights © 2017 ianbest All rights reserved.
+	<div class="container">
+		<div class="footer_contents">
+			<p>#402, ArkVally, 37, Seongsui-ro 22-gil, Seongdong-gu, Seoul,Korea</p>
+			<P>Copyrights © 2017 Fineinsight Allrights reserved. Privacy Policy</P>
+		</div>
+	</div>
 </div>
