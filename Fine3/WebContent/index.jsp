@@ -61,6 +61,24 @@
 				</div>
 
 			</div>
+			<div class="container" id="container">
+			
+			<div class="in-container-header">
+			<p>How We Do</p><img src="assets/images/stroke.png">
+			</div>
+			<div class="container-item">
+			<h3><span class="black">Achieving<br>Real Results for Our Clients</span><br>Our solutions are strategic and based on analytical discovery</h3>
+			<div class="img-box">
+			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
+			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
+			<div class="item col-md-4"><img src="assets/images/best1.png"></div>
+			<button class="btnS">LEARN MORE</button>
+			</div>
+			</div>
+			
+			
+			</div>
+			
 	</div>
 
 
