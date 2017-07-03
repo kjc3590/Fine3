@@ -81,7 +81,7 @@ p {
 	line-height: 25px;
 	word-spacing: 1px;
 	font-weight: 600;
-	color: rgba(33, 31, 31, 0.75)
+	color: rgba(33, 31, 31, 0.75);
 }
 
 a {
@@ -326,7 +326,7 @@ a {
 	border: 2.6px solid darkgray;
 }
 .footer{
-	height: 8em;
+	height: 9em;
 	background: RGB(127,206,244);
 }
 
@@ -370,5 +370,28 @@ a {
 	padding:0.5em;
 }
 #map-canvas {
-	height: 72vh;
+	height: 64vh;
+}
+#contact_wrap{
+	background: #def4fc;
+}
+.map_wrap{
+	padding : 5vh 0;
+	overflow: hidden;
+}
+.map_content{
+	height: 64vh;
+	background: white;
+	padding: 440px 30px 30px 30px;
+}
+.map_header{
+	overflow: hidden;
+	border-bottom: 2px solid #c7c7c7;
+	display: block;
+	margin-top: 30px;
+}
+.map_header p{
+	font-size: 4rem;
+	font-weight: 600;
+	line-height: normal;
 }

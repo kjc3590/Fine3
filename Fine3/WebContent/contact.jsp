@@ -21,19 +21,38 @@
 <body>
 
 	<%@ include file="include/header.jsp"%>
-	
-	<div class="wrap">
-		<div id="map-canvas"></div>
+
+	<div class="wrap" id="contact_wrap">
+		<div class="container">
+			<div class="map_header">
+				<p>Contact</h1>			
+			</div>
+			<div class="map_wrap">
+				<div id="map-canvas" class="col-md-8"></div>
+				<div class="map_content col-md-4">
+					<img src="assets/images/fine-logo.png"> 
+					<div class ="addr">
+						#402, ArkVally, 37, Seongsui-ro 22-gil,
+						Seongdong-gu, Seoul,Korea
+					</div>
+					<div class="tel">
+						TEL : 02-565-2920 <br>
+						FAX : 02-8212-0042
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 
-	<%@ include file="include/footer.jsp" %>
+	<%@ include file="include/footer.jsp"%>
 
-	
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
-<script src="assets/js/jquery-1.9.1.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/map.js"></script>
-<script src="assets/js/custom.js"></script>
+
+	<script
+		src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB_bNNglsjbbOhArM3uMMLm0Qy4aCTPEu4"></script>
+	<script src="assets/js/jquery-1.9.1.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/map.js"></script>
+	<script src="assets/js/custom.js"></script>
 
 </body>
 </html>
