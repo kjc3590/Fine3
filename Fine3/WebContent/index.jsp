@@ -67,7 +67,7 @@
 					</div>
 					<button class="btnS" type="button">LEARN MORE</button>
 				</div>
-			</div>
+			</div>                               
 		</div>
 		</div>
 	<%@ include file="include/footer.jsp"%>
