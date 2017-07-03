@@ -25,7 +25,7 @@
 	<div class="wrap" id="contact_wrap">
 		<div class="container">
 			<div class="map_header">
-				<p>Contact</h1>			
+				<p>Contact</p>			
 			</div>
 			<div class="map_wrap">
 				<div id="map-canvas" class="col-md-8"></div>
