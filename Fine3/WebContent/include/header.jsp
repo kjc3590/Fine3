@@ -14,7 +14,7 @@
 		<ul class="nav navbar-nav">
 			<li><a id="homemove" href="index.jsp">HOME</a></li>
 			<li><a id="aboutmove" href="about.jsp">ABOUT</a></li>
-			<li><a id="worksmove" href="works.jsp">WORKS</a></li>
+			<li><a id="worksmove" href="work.jsp">WORKS</a></li>
 			<li><a id="contactmove" href="contact.jsp">CONTACT</a></li>
 			<li><a href="#">PDF</a></li>
 		</ul>
