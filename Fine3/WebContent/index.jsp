@@ -45,7 +45,7 @@
 		<div class="How">
 		<div class="container" id="container">
 			<div class="in-container-header">
-				<p>How We Do</p>
+				<p>How We Do</p>	
 				<img src="assets/images/stroke.png">
 			</div>
 			<div class="container-item">
@@ -72,8 +72,6 @@
 		</div>
 	<%@ include file="include/footer.jsp"%>
 	</div>
-
-
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>

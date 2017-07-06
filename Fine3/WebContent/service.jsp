@@ -19,22 +19,29 @@
 
 	<%@ include file="/include/header.jsp"%>
 	<div id="wrap" class="wrap">
-		
+
 		<div class="How">
-		<div class="container" id="container">
-			<div class="in-container-header">
-				<p class="b-header">Works</p>
-				<img src="assets/images/stroke.png">
+			<div class="container" id="container">
+				<div class="in-container-header">
+					<p class="b-header">Works</p>
+					<img src="assets/images/stroke.png">
+				</div>
+				<div class="container-item">
+					<div class="col-md-6">
+						<h2 class="about">
+							Insight of Creative<br>Insight of Experience<br>Insight
+							of Confidence
+						</h2>
+					</div>
+					<div class="col-md-6">
+						<h2 class="about-small">FineInsight</h2>
+						<span>크리에이티브,UX,자신감<br>조금 남다른 관심을 가진 크리에이티브 디자인 그룹<br>파인인사이트입니다.
+						</span>
+					</div>
+				</div>
 			</div>
-			<div class="container-item">
-			<div class="col-md-6"><h2 class="about">Insight of Creative<br>Insight of Experience<br>Insight of Confidence</h2></div>
-			<div class="col-md-6"><h2 class="about-small">FineInsight</h2><span>크리에이티브,UX,자신감<br>조금 남다른 관심을 가진 크리에이티브 디자인 그룹<br>파인인사이트입니다.</span></div>
-			
-			
-			</div>                               
 		</div>
-		</div>
-	<%@ include file="include/footer.jsp"%>
+		<%@ include file="include/footer.jsp"%>
 	</div>
 
 
@@ -45,4 +52,4 @@
 	<script src="assets/js/custom.js"></script>
 
 </body>
-</html>
+</html>  
