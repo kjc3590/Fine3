@@ -20,8 +20,8 @@
 	<%@ include file="/include/header.jsp"%>
 	<div id="wrap" class="wrap">
 
-		<div class="How">
-			<div class="container" id="container">
+		<div class="How alice-blue">
+			<div class="container">
 				<div class="in-container-header">
 					<p class="b-header">Works</p>
 					<img src="assets/images/stroke.png">
@@ -32,10 +32,10 @@
 						Researching User's Design Patterns and Analysing BigDATA
 					</h3>
 					<div class="img-box">
-						<div class="item col-md-8">
+						<div class="col-md-8 no-padding">
 							<img class="w-img" src="assets/images/best1.png">
 						</div>
-						<div class="item col-md-4">
+						<div class="item col-md-4 bg-white">
 							<div class="w-content">
 								<h2>베스티안 병원 홈페이지</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
@@ -43,10 +43,10 @@
 							</div>
 
 						</div>
-						<div class="item col-md-8">
+						<div class="col-md-8 no-padding">
 							<img class="w-img" src="assets/images/best1.png">
 						</div>
-						<div class="item col-md-4">
+						<div class="item col-md-4 bg-white">
 							<div class="w-content">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
@@ -54,10 +54,10 @@
 							</div>
 
 						</div>
-						<div class="item col-md-8">
+						<div class="col-md-8 no-padding">
 							<img class="w-img" src="assets/images/best1.png">
 						</div>
-						<div class="item col-md-4">
+						<div class="item col-md-4 bg-white">
 							<div class="w-content">
 								<h2>라임탭HIS</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작

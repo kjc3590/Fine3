@@ -94,8 +94,8 @@ a {
 }
 
 .navbar-header {
-	margin-left: 80px;
-	margin-top: 20px;
+	margin-left: 8rem;
+	margin-top: 1.3rem;
 }
 
 .navbar {
@@ -108,9 +108,9 @@ a {
 	background-color: transparent;
 }
 
-.mgb-10 {
+/* .mgb-10 {
 	margin-bottom: 10px;
-}
+} */
 
 .mgb-25 {
 	margin-bottom: 25px;
@@ -137,7 +137,7 @@ a {
 
 @media ( min-width :768px) {
 	.navbar-default .navbar-collapse {
-		padding-top: 22px;
+		padding-top: 2.1rem;
 	}
 	.navbar-nav {
 		float: right;
@@ -300,13 +300,22 @@ a {
 }
 
 .in-container-header .b-header {
-	margin-bottom: 10px !important;
+	margin-bottom: 1.5rem !important;
 	font-size: 3.2rem !important;
+	color:black;
+	letter-spacing:-0.07rem;
 }
 
 .in-container-header img {
 	transform: rotate(98deg);
 	margin-top: -10px;
+	height: 14px;
+}
+
+
+.in-container-header .contact-dot {
+	transform: rotate(100deg);
+	margin-top: -1.8rem;
 	height: 14px;
 }
 
@@ -316,52 +325,90 @@ a {
 }
 
 .container .container-item {
-	
+	margin-top:3.2rem;
 }
 
 .container .container-item .about {
-	
+	font-size: 3.6rem;
+	text-transform: capitalize;
+	letter-spacing: -0.08rem;
+	line-height: 4.6rem;
+	margin-top:0;
 }
 
+
+.container .container-item .about .aqua {
+	color:#42bfeb;
+}
+
+.container .container-item .about .aqua2 {
+	color:#046497;
+}
+
+.container .container-item .about .aqua3 {
+	color:#0b2c55;
+}
+
+
 .container .container-item .about-small {
-	
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-size: 1.88rem;
+	text-transform: capitalize;
+	letter-spacing: 0.07rem;
+	margin-top:0;
+	line-height:4.6rem;
 }
 
 .container .container-item span {
-	
+	font-size:1.55rem;
 }
 
 .container .container-item h3 {
 	font-size: 2.4rem;
 	line-height: 3.2rem;
 	text-transform: initial;
+	margin-top:1.2rem !important;
+	letter-spacing:-0.4px;
 }
 
 .container .container-item .black {
 	color: black;
 	font-weight: 600;
+	font-size:2.4rem;
 }
 
 .container .container-item img {
-	width: 100%;
+	
 	border-bottom-right-radius: 6.7%;
+	max-height:26.5vh;
 }
 
 .container .container-item .w-img {
 	max-height: 45vh;
 	border-bottom-right-radius: 0;
 	margin-bottom: 20px;
+	width:100%;
 }
 
 .container .container-item .img-box {
 	text-align: center;
+	margin-top:3rem;
 }
 
 .container .container-item .w-content {
 	height: 45vh;
 	padding: 32rem 14rem 0 1rem;
 	text-align: left;
+	
 }
+
+.container .container-item .w-content2 {
+	height: 26.5vh;
+	padding: 14.5rem 0rem 0 2.65rem;
+	text-align: left;
+}
+
 
 .container .container-item .w-content h2 {
 	margin-bottom: 0;
@@ -371,11 +418,21 @@ a {
 	color: rgba(128, 128, 128, 0.74);
 }
 
+.container .container-item .w-content2 h2 {
+	margin-bottom: 0;
+	font-size: 1.67rem;
+	letter-spacing: 0px;
+	font-weight: 600;
+	color: rgb(66, 191, 235);
+}
+
 .container .container-item .w-content span {
 	
 }
 
 .img-box .item {
+	display:flex;
+	margin-bottom:2.6rem;
 	
 }
 
@@ -425,6 +482,7 @@ a {
 .How {
 	padding-top: 6rem;
 	padding-bottom: 6rem;
+	background:white;
 }
 
 .fa {
@@ -438,23 +496,40 @@ a {
 }
 
 #contact_wrap {
-	background: #def4fc;
+	
 }
 
 .map_wrap {
-	padding: 5vh 0;
+	padding: 4.5vh 0 3.8vh 0;
 	overflow: hidden;
 }
 
 .map_content {
 	height: 64vh;
 	background: white;
-	padding: 440px 30px 30px 30px;
+	padding: 37.5rem 3.5rem 2rem 3.5rem;
+}
+
+.map_content .map-subtitle{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	font-size:1.88rem;
+	text-transform:capitalize;
+	letter-spacing:0.07rem;
+	margin-top:0;
+	line-height:4.6rem;
+}
+
+.map_content .tel {
+	margin-top:3rem;
+}
+
+.map_content span {
+	font-size:1.55rem;
 }
 
 .map_header {
-	overflow: hidden;
-	border-bottom: 2px solid #c7c7c7;
+	border-bottom: 2px solid #d6d4d4;
 	display: block;
 	margin-top: 30px;
 }
@@ -463,4 +538,46 @@ a {
 	font-size: 4rem;
 	font-weight: 600;
 	line-height: normal;
+}
+
+
+.header-top {
+	padding-top:3.4rem;
+}
+
+.h2-gray {
+	color:gray;
+}
+
+.h2-aqua {
+	color:rgb(66, 191, 235) !important;
+}
+
+
+.bg-white {
+	background:white;
+}
+
+.bold {
+	font-weight:600;
+}
+
+.border-custom {
+	border-top:2px solid rgba(66, 191, 235, 0.37);
+	border-right:2px solid rgba(66, 191, 235, 0.37);
+	border-radius:0% !important;
+}
+
+.border-custom2 {
+	border-top:2px solid rgba(66, 191, 235, 0.37);
+	border-left:2px solid rgba(66, 191, 235, 0.37);
+	border-radius:0% !important;
+}
+
+.alice-blue {
+	background:#f3fbfe !important;
+}
+
+.mr-1rem {
+	margin-right:1rem;
 }

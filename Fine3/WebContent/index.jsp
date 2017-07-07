@@ -43,7 +43,7 @@
 		</div>
 
 		<div class="How">
-		<div class="container" id="container">
+		<div class="container">
 			<div class="in-container-header">
 				<p>How We Do</p>
 				<img src="assets/images/stroke.png">
