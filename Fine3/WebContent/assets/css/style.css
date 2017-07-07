@@ -137,7 +137,7 @@ a {
 
 @media ( min-width :768px) {
 	.navbar-default .navbar-collapse {
-		padding-top: 2.1rem;
+		padding-top: 2.1vh;
 	}
 	.navbar-nav {
 		float: right;
@@ -199,7 +199,7 @@ a {
 	margin: 0 30% !important;
 	text-align: left !important;
 	letter-spacing: -0.6px !important;
-	padding-top: 13.7rem;
+	padding-top: 13.7vh;
 }
 
 #owl-demo .item .p3 {
@@ -210,7 +210,7 @@ a {
 	width: 17rem;
 	height: auto;
 	margin: 0 auto 3.5rem;
-	padding-top: 15.5rem;
+	padding-top: 15.5vh;
 }
 
 #owl-demo .item .owl-overlay h2 {
@@ -398,14 +398,14 @@ a {
 
 .container .container-item .w-content {
 	height: 45vh;
-	padding: 32rem 14rem 0 1rem;
+	padding: 32vh 14rem 0 1rem;
 	text-align: left;
 	
 }
 
 .container .container-item .w-content2 {
 	height: 26.5vh;
-	padding: 14.5rem 0rem 0 2.65rem;
+	padding: 14.5vh 0rem 0 2.65rem;
 	text-align: left;
 }
 
@@ -441,7 +441,7 @@ a {
 	font-weight: 600;
 	font-size: 1.6rem;
 	background: transparent;
-	padding: 0.4rem 4rem 0.4rem 4rem;
+	padding: 0.4vh 4rem 0.4vh 4rem;
 	border: 2.6px solid darkgray;
 }
 
@@ -451,14 +451,14 @@ a {
 }
 
 .footer_contents {
-	padding-top: 2em;
-	height: 8em;
+	padding-top: 2vh;
+	height: 8vh;
 	background: RGB(127, 206, 244);
 }
 
 .footer_contents {
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
 	line-height: 1.6rem;
 }
 
@@ -476,12 +476,12 @@ a {
 
 .footer_contents .icon-box {
 	float: right;
-	padding-top: 1.5em;
+	padding-top: 1.5vh;
 }
 
 .How {
-	padding-top: 6rem;
-	padding-bottom: 6rem;
+	padding-top: 6vh;
+	padding-bottom: 6vh;
 	background:white;
 	position:relative;
 }
@@ -489,7 +489,7 @@ a {
 .fa {
 	font-size: 1.7em;
 	color: white;
-	padding: 0.5em;
+	padding: 0.5vh;
 }
 
 #map-canvas {
@@ -508,7 +508,7 @@ a {
 .map_content {
 	height: 64vh;
 	background: white;
-	padding: 37.5rem 3.5rem 2rem 3.5rem;
+	padding: 37.5vh 3.5rem 2vh 3.5rem;
 }
 
 .map_content .map-subtitle{
@@ -518,7 +518,7 @@ a {
 	text-transform:capitalize;
 	letter-spacing:0.07rem;
 	margin-top:0;
-	line-height:4.6rem;
+	line-height:4.6vh;
 }
 
 .map_content .tel {
@@ -543,7 +543,7 @@ a {
 
 
 .header-top {
-	padding-top:3.4rem;
+	padding-top:3.4vh;
 }
 
 .h2-gray {

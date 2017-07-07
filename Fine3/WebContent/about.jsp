@@ -27,13 +27,13 @@
 					<img src="assets/images/stroke.png">
 				</div>
 				<div class="container-item">
-					<div class="col-md-6">
+					<div class="col-md-6 no-padding">
 						<h2 class="about">
 							<strong class="aqua">Insight of Creative</strong><br><strong class="aqua2">Insight of Experience</strong><br><strong class="aqua3">Insight
 							of Confidences</strong>
 						</h2>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 no-padding">
 						<h2 class="about-small h2-aqua bold">FineInsight</h2>
 						<span>크리에이티브,UX,자신감<br>조금 남다른 관심을 가진 크리에이티브 디자인 그룹<br>파인인사이트입니다.
 						</span>
