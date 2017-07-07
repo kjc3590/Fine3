@@ -23,6 +23,7 @@
 	<%@ include file="include/header.jsp"%>
 
 	<div class="wrap" id="wrap">
+	
 	<div class="How alice-blue">
 		<div class="container">
 		<div class="in-container-header">
