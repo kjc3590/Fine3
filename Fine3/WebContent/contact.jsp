@@ -22,36 +22,33 @@
 
 	<%@ include file="include/header.jsp"%>
 
-	<div id="wrap" class="wrap">
-	<div class="How alice-blue">
-		<div class="container">
-		<div class="in-container-header">
-			
-				<p class="b-header mr-1rem">Contact</p>		
-				<img class="contact-dot" src="assets/images/stroke.png">	
+	<div class="wrap" id="wrap">
+
+		<div class="How alice-blue">
+			<div class="container">
+				<div class="in-container-header">
+
+					<p class="b-header mr-1rem">Contact</p>
+					<img class="contact-dot" src="assets/images/stroke.png">
 				</div>
-			
-			<div class="map_wrap">
-				<div id="map-canvas" class="col-md-8 col-sm-8"></div>
-				<div class="map_content col-md-4 col-sm-4">
-					<h2 class="map-subtitle h2-aqua bold">FineInsight</h2> 
-					<span class ="">
-						#402, ArkVally, 37, <br>
-						Seongsui-ro 22-gil,<br>
-						Seongdong-gu, Seoul,Korea
-					</span>
-					<div class="tel">
-					<span>
-						TEL : 02-565-2920 <br>
-						FAX : 02-8212-0042
+
+				<div class="map_wrap">
+					<div id="map-canvas" class="col-md-8 col-sm-8"></div>
+					<div class="map_content col-md-4 col-sm-4">
+						<h2 class="map-subtitle h2-aqua bold">FineInsight</h2>
+						<span class=""> #402, ArkVally, 37, <br> Seongsui-ro
+							22-gil,<br> Seongdong-gu, Seoul,Korea
 						</span>
+						<div class="tel">
+							<span> TEL : 02-565-2920 <br> FAX : 02-8212-0042
+							</span>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
 
-	<%@ include file="include/footer.jsp"%>
+		<%@ include file="include/footer.jsp"%>
 	</div>
 
 
