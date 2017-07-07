@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 </head>
-<body>
+<body> 
 
 	<%@ include file="include/header.jsp"%>
 
