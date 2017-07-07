@@ -52,10 +52,10 @@
 				<h3>
 					<span class="black">Achieving<br>Real Results for Our
 						Clients
-					</span><br>Our solutions are strategic and based on analytical
-					discovery
+					</span></h3><h3 class="trim"><strong>Our solutions are strategic and based on analytical
+					discovery</strong>
 				</h3>
-				<div class="img-box">
+				<div class="img-box m-width">
 					<div class="item col-md-4">
 						<img src="assets/images/best1.png">
 					</div>

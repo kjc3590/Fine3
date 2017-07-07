@@ -329,7 +329,7 @@ a {
 }
 
 .container .container-item .about {
-	font-size: 3.6rem;
+	font-size: 3.55rem;
 	text-transform: capitalize;
 	letter-spacing: -0.08rem;
 	line-height: 4.6rem;
@@ -353,7 +353,7 @@ a {
 .container .container-item .about-small {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
-	font-size: 1.88rem;
+	font-size: 2.28rem;
 	text-transform: capitalize;
 	letter-spacing: 0.07rem;
 	margin-top:0;
@@ -370,18 +370,32 @@ a {
 	text-transform: initial;
 	margin-top:1.2rem !important;
 	letter-spacing:-0.4px;
+	margin-bottom:0;
+    padding-bottom:0;
+}
+
+.container .container-item .trim {
+	margin-top:0 !important;
+
+}
+
+.container .container-item strong {
+	margin-top:0 !important;
+	font-weight:300 !important;
+
 }
 
 .container .container-item .black {
 	color: black;
 	font-weight: 600;
-	font-size:2.4rem;
+	font-size:2.4rem !important;
+	line-height:3.2rem !important;
 }
 
 .container .container-item img {
 	
 	border-bottom-right-radius: 6.7%;
-	max-height:36.5vh;
+	max-height:36vh;
 }
 
 .container .container-item .w-img {
@@ -393,12 +407,12 @@ a {
 
 .container .container-item .img-box {
 	text-align: center;
-	margin-top:3rem;
+	margin-top:5rem;
 }
 
 .container .container-item .w-content {
 	height: 45vh;
-	padding: 32vh 14rem 0 1rem;
+	padding: 32vh 14rem 0 1vw;
 	text-align: left;
 	
 }
@@ -415,7 +429,7 @@ a {
 	font-size: 1.67rem;
 	letter-spacing: 0px;
 	font-weight: 600;
-	color: rgba(128, 128, 128, 0.74);
+	color: rgb(66, 191, 235);
 }
 
 .container .container-item .w-content2 h2 {
@@ -437,12 +451,12 @@ a {
 }
 
 .container .container-item .btnS {
-	margin-top: 6rem;
+	margin-top: 5vh;
 	font-weight: 600;
 	font-size: 1.6rem;
 	background: transparent;
 	padding: 0.4vh 4rem 0.4vh 4rem;
-	border: 2.6px solid darkgray;
+	border: 3.45px solid #7fcef4;
 }
 
 .footer {
@@ -450,15 +464,12 @@ a {
 	background: RGB(127, 206, 244);
 }
 
-.footer_contents {
-	padding-top: 2vh;
-	height: 8vh;
-	background: RGB(127, 206, 244);
-}
+
 
 .footer_contents {
-	padding-top: 2vh;
-	padding-bottom: 2vh;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	height: 8vh;
 	line-height: 1.6rem;
 }
 
@@ -471,17 +482,17 @@ a {
 .footer_contents img {
 	width: 80px;
 	height: auto;
-	margin-bottom: 10px;
+	margin-bottom: 14px;
 }
 
 .footer_contents .icon-box {
 	float: right;
-	padding-top: 1.5vh;
+	padding-top: 0.5rem;
 }
 
 .How {
-	padding-top: 6vh;
-	padding-bottom: 6vh;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
 	background:white;
 	position:relative;
 }
@@ -518,7 +529,7 @@ a {
 	text-transform:capitalize;
 	letter-spacing:0.07rem;
 	margin-top:0;
-	line-height:4.6vh;
+	line-height:4.6rem;
 }
 
 .map_content .tel {
@@ -543,7 +554,7 @@ a {
 
 
 .header-top {
-	padding-top:3.4vh;
+	padding-top:3.4rem;
 }
 
 .h2-gray {
@@ -581,4 +592,8 @@ a {
 
 .mr-1rem {
 	margin-right:1rem;
+}
+
+.m-width img {
+	width:100%;
 }

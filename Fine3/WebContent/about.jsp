@@ -50,7 +50,7 @@
 					</h3>
 					<div class="img-box">
 						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 border-custom" src="assets/images/best2.png">
+							<img class="col-md-6 col-xs-6 border-custom" src="assets/images/best2.png">
 							<div class="col-md-6 w-content2">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
@@ -58,7 +58,7 @@
 							</div>
 						</div>
 						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 border-custom2"
+							<img class="col-md-6 col-xs-6 border-custom2"
 								src="assets/images/best2.png">
 							<div class="col-md-6 w-content2">
 								<h2>위피아스 모바일</h2>
@@ -67,7 +67,7 @@
 							</div>
 						</div>
 						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 border-custom2"
+							<img class="col-md-6 col-xs-6 border-custom2"
 								src="assets/images/best2.png">
 							<div class="col-md-6 w-content2">
 								<h2>위피아스 모바일</h2>
@@ -76,7 +76,7 @@
 							</div>
 						</div>
 						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 border-custom2"
+							<img class="col-md-6 col-xs-6 border-custom2"
 								src="assets/images/best2.png">
 							<div class="col-md-6 w-content2">
 								<h2>위피아스 모바일</h2>
@@ -85,7 +85,7 @@
 							</div>
 						</div>
 						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 border-custom" src="assets/images/best2.png">
+							<img class="col-md-6 col-xs-6 border-custom" src="assets/images/best2.png">
 							<div class="col-md-6 w-content2">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
