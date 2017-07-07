@@ -20,7 +20,7 @@ html, body {
 }
 
 #wrap {
-	position: relative;
+
 	width: 100%;
 	overflow: hidden;
 	padding-right: 0;
@@ -381,7 +381,7 @@ a {
 .container .container-item img {
 	
 	border-bottom-right-radius: 6.7%;
-	max-height:26.5vh;
+	max-height:36.5vh;
 }
 
 .container .container-item .w-img {
