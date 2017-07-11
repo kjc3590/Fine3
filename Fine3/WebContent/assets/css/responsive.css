@@ -39,30 +39,27 @@
 	}
 }
 
-
 @media screen and (min-width:320px) and (max-width:374px) {
 	
 	#owl-demo .item .owl-overlay {
-		width:76% !important;
+		width: 76% !important;
 		margin: 0 12% !important;
 	}
 	
 	#owl-demo .item .owl-overlay img {
-		padding-top:6.2vh !important;
+		padding-top: 6.2vh !important;
 	}
 	
 }
 
 	
 @media screen and (min-width:375px) and (max-width:425px) {
-
-#owl-demo .item .owl-overlay {
-		width:68% !important;
+	#owl-demo .item .owl-overlay {
+		width: 68% !important;
 		margin: 0 16% !important;
 	}
-	
 }
-	
+
 @media screen and (max-width:375px) {
 	.footer-area p {
 		font-size: 12px;
@@ -74,13 +71,15 @@
 
 @media screen and (max-width:425px) {
 	.footer_contents img {
-		margin-bottom:19px;
+		margin-bottom: 19px;
 	}
-	
-	
-	
 }
 
+@media screen and (max-width:480px) {
+	.container .container-item img {
+		max-height: 36vh;
+	}
+}
 
 @media screen and (min-width:320px) and (max-width:375px) {
 	.in-content .viewmore {
@@ -105,10 +104,8 @@
 	.footer {
 		height: 9.8em !important;
 	}
-	
 	.container .container-item span {
-	
-		font-size:1.06rem !important;
+		font-size: 1.06rem !important;
 	}
 }
 
@@ -153,6 +150,18 @@
 	}
 }
 
+@media screen and (min-width:481px) and (max-width:767px) {
+	.img-box .item {
+		padding: 0 14% 0 14%;
+	}
+	.ovr-3 {
+		padding: 7.5% 0 0 0 !important;
+	}
+	.ovr-3 h2 {
+		line-height: 4.6vw !important;
+	}
+}
+
 @media screen and (min-width:481px) and (max-width:540px) {
 	.in-content .viewmore {
 		width: 50%;
@@ -190,11 +199,10 @@
 		margin-top: -27.2%;
 	}
 	#owl-demo .item .owl-overlay h2 {
-		line-height:5.5vw !important;
+		line-height: 5.5vw !important;
 	}
-	
-	#owl-demo .item .owl-overlay .gray{
-		line-height:2.5vw !important;
+	#owl-demo .item .owl-overlay .gray {
+		line-height: 2.5vw !important;
 	}
 }
 
@@ -215,13 +223,11 @@
 		height: 22%;
 		margin-top: -25.2%;
 	}
-	
 	#owl-demo .item .owl-overlay h2 {
-		line-height:3.5rem !important;
+		line-height: 3.5rem !important;
 	}
-	
-	#owl-demo .item .owl-overlay .gray{ 
-		line-height:3.5rem !important;
+	#owl-demo .item .owl-overlay .gray {
+		line-height: 3.5rem !important;
 	}
 }
 
@@ -263,14 +269,11 @@
 	}
 }
 
-
-@media screen and (min-width:768px) and (max-width:8280px) {
-
-		#owl-demo .item .owl-overlay p {
-			margin-top:0; 
-		}
+@media screen and (min-width:768px) and (max-width:828px) {
+	#owl-demo .item .owl-overlay p {
+		margin-top: 0;
 	}
-
+}
 
 @media screen and (min-width:790px) and (max-width:890px) {
 	.in-content .viewmore {
@@ -404,7 +407,7 @@
 	}
 }
 
-/* �ؼ��������� */
+/* 占쌔쇽옙占쏙옙占쏙옙占쏙옙占쏙옙 */
 @media screen and (width:412px) and (height:732px) {
 	.carousel-inner>.item>img {
 		min-height: 495px;
@@ -414,21 +417,21 @@
 	}
 }
 
-/* ������ 5 */
+/* 占쏙옙占쏙옙占쏙옙 5 */
 @media screen and (width:320px) and (height:568px) {
 	.mgb-25 {
 		margin-bottom: 20px;
 	}
 }
 
-/* ������ 5 */
+/* 占쏙옙占쏙옙占쏙옙 5 */
 @media screen and (width:375px) and (height:667px) {
 	.mgb-25 {
 		margin-bottom: 40px;
 	}
 }
 
-/* ������ 6  */
+/* 占쏙옙占쏙옙占쏙옙 6  */
 @media screen and (width:414px) and (height:736px) {
 	.carousel-inner>.item>img {
 		min-height: 495px;
@@ -441,7 +444,7 @@
 	}
 }
 
-/* �����е�  */
+/* 占쏙옙占쏙옙占싻듸옙  */
 @media screen and (width:768px) and (height:1024px) {
 	.navbar-header {
 		margin-left: 20px;
@@ -467,7 +470,7 @@
 	}
 }
 
-/* �����е�  */
+/* 占쏙옙占쏙옙占싻듸옙  */
 @media screen and (width:1024px) and (height:1366px) {
 	.mgb-25 {
 		margin-bottom: 55px;
@@ -488,12 +491,6 @@
 		margin-left: 20px;
 	}
 }
-
-/* @media screen and (max-width:767px) {
-	.footer_contents img {
-		margin-bottom: 20px !important;
-	}
-} */
 
 @media screen and (max-width:767px) {
 	#owl-demo .item .owl-overlay img {
@@ -538,7 +535,7 @@
 		font-size: 2.87vw;
 		line-height: 1.9vw;
 		margin-bottom: 0;
-		margin-top:15px;
+		margin-top: 18px;
 	}
 	#owl-demo .item .owl-overlay .gray {
 		font-size: 2.87vw;
@@ -602,25 +599,36 @@
 		padding-left: 3vw;
 		height: 8.5em;
 	}
+	.ovr-2 span {
+		font-size: 3.3vw
+	}
+	#owl-demo .item .ovr-2 h2 {
+		font-size: 3.6vw !important;
+		margin-bottom: 1.98vw;
+	}
 }
 
 @media screen and (max-width:480px) {
-
 	#owl-demo .item .owl-overlay p {
-		display:none;
+		display: none;
 	}
-	
 	#owl-demo .item .owl-overlay img {
-		padding-top:7.5vh !important;
+		padding-top: 7.5vh !important;
+	}
+	#owl-demo .item .ovr-2 h2 {
+		margin-bottom: 1.54vw;
 	}
 }
 
-
 @media screen and (max-width:1107px) {
-	
-	
 	#owl-demo .item .owl-overlay img {
-	padding-top:7.5vh;
+		padding-top: 7.5vh;
+	}
+	#owl-demo .item .ovr-2 h2 {
+		font-size: 3.45vw;
+	}
+	.ovr-3 h2 {
+		line-height: 4.9vw !important;
 	}
 }
 

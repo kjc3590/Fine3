@@ -73,14 +73,14 @@
 							analytical discovery</strong>
 					</h3>
 					<div class="img-box m-width">
-						<div class="item col-md-4">
-							<img src="assets/images/best1.png">
+						<div class="item col-md-4 col-sm-4">
+							<img src="assets/images/sub-1.png">
 						</div>
-						<div class="item col-md-4">
-							<img src="assets/images/best1.png">
+						<div class="item col-md-4 col-sm-4">
+							<img src="assets/images/sub-2.png">
 						</div>
-						<div class="item col-md-4">
-							<img src="assets/images/best1.png">
+						<div class="item col-md-4 col-sm-4">
+							<img src="assets/images/sub-3.png">
 						</div>
 						<button class="btnS" type="button">LEARN MORE</button>
 					</div>

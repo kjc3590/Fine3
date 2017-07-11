@@ -224,7 +224,7 @@ a {
 #owl-demo .item .ovr-2 h2 {
 	letter-spacing:0.11rem;
 	text-transform:capitalize;
-	font-size:4.15rem;
+	font-size:2.85vw;
 	
 	
 }
@@ -405,8 +405,7 @@ a {
 .container .container-item img {
 	
 	border-bottom-right-radius: 6.7%;
-	max-height:36vh;
-	width : 100%;
+	height:auto !important;
 }
 
 .container .container-item .w-img {
@@ -614,7 +613,7 @@ a {
 }
 
 .ovr-2 span {
-	font-size : 3.2rem;
+	font-size : 2.3vw;
 	color: rgba(255,255,255,0.9);
 }
 
@@ -624,13 +623,13 @@ a {
 }
 
 .ovr-3 h2 {
-	font-size:2.48rem !important;
-	margin-top:8rem;
+	font-size:1.43vw !important;
+	margin-top:4.5vw;
 }
 
 .ovr-3 .h-header {
-	letter-spacing:2.1rem;
-	font-size:3.69rem !important;
+	letter-spacing:1.215vw;
+	font-size:2.19vw !important;
 	text-align:left;
 	
 }
