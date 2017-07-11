@@ -209,16 +209,26 @@ a {
 #owl-demo .item .owl-overlay img {
 	width: 17rem;
 	height: auto;
-	margin: 0 auto 3.5rem;
+	margin: 0 auto 3vw;
 	padding-top: 15.5vh;
 }
 
 #owl-demo .item .owl-overlay h2 {
 	color: white;
-	font-size: 4rem;
+	font-size: 2.3vw;
 	font-weight: 600;
 	line-height: 5.4rem;
 }
+
+
+#owl-demo .item .ovr-2 h2 {
+	letter-spacing:0.11rem;
+	text-transform:capitalize;
+	font-size:4.15rem;
+	
+	
+}
+
 
 #owl-demo .item .owl-overlay .ll {
 	letter-spacing: 1.2px !important;
@@ -228,21 +238,21 @@ a {
 
 #owl-demo .item .owl-overlay .gray {
 	color: #c3bfbf;
-	font-size: 4rem;
+	font-size: 2.3vw;
 	font-weight: 600;
-	line-height: 5.4rem;
+	line-height: 3.2vw;
 }
 
 #owl-demo .item .owl-overlay .light {
 	color: white;
-	font-size: 4rem;
+	font-size: 2.3vw;
 	font-weight: 300;
-	line-height: 5.4rem;
+	line-height: 3.2rem;
 }
 
 #owl-demo .item .owl-overlay p {
 	color: white;
-	font-size: 1.9rem;
+	font-size: 1.1vw;
 	line-height: 2.7rem;
 	font-weight: 300;
 	margin-top: 20px;
@@ -596,4 +606,39 @@ a {
 
 .m-width img {
 	width:100%;
+}
+
+.ovr-2 {
+	text-align:left !important;
+	padding:9.5% 0 0 4.4% !important;
+}
+
+.ovr-2 span {
+	font-size : 3.2rem;
+	color: rgba(255,255,255,0.9);
+}
+
+.ovr-3 {
+	padding:3.5% 0 0 0 !important;
+	
+}
+
+.ovr-3 h2 {
+	font-size:2.48rem !important;
+	margin-top:8rem;
+}
+
+.ovr-3 .h-header {
+	letter-spacing:2.1rem;
+	font-size:3.69rem !important;
+	text-align:left;
+	
+}
+
+.ovr-3 p {
+	
+}
+
+.ovr-3 span {
+	
 }

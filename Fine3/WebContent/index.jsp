@@ -32,45 +32,62 @@
 						중심의 디자인 컨설팅을 제공합니다.
 					</p>
 				</div>
-				<img src="assets/images/full-image.png" alt="The Last of us">
+				<img src="assets/images/main-1.png" alt="The Last of us">
 			</div>
 			<div class="item">
-				<img src="assets/images/full-image.png" alt="Mirror Edge">
+				<div class="owl-overlay ovr-2">
+					<h2>Social Media Planning</h2>
+					<span class="">Service Design<br>Web,Mobile Design <br>On,Off-Line
+						AD<br>Video Promotions
+					</span>
+				</div>
+				<img src="assets/images/main-2.png" alt="Mirror Edge">
 			</div>
 			<div class="item">
-				<img src="assets/images/full-image.png" alt="GTA V">
+				<div class="owl-overlay ovr-3">
+					<h2 class="h-header">Be Creative Design</h2>
+					<h2>
+						기업의 비지니스 컨셉을 이해하고 <br>사용자 중심의 디자인 패턴 분석 및<br>Big Data
+						분석과 리서치를 통해 <br>맞춤디자인과 컨설팅을 제공합니다.</span>
+					</h2>
+
+				</div>
+				<img src="assets/images/main-3.png" alt="GTA V">
 			</div>
 		</div>
 
 		<div class="How">
-		<div class="container">
-			<div class="in-container-header">
-				<p>How We Do</p>	
-				<img src="assets/images/stroke.png">
-			</div>
-			<div class="container-item">
-				<h3>
-					<span class="black">Achieving<br>Real Results for Our
-						Clients
-					</span></h3><h3 class="trim"><strong>Our solutions are strategic and based on analytical
-					discovery</strong>
-				</h3>
-				<div class="img-box m-width">
-					<div class="item col-md-4">
-						<img src="assets/images/best1.png">
-					</div>
-					<div class="item col-md-4">
-						<img src="assets/images/best1.png">
-					</div>
-					<div class="item col-md-4">
-						<img src="assets/images/best1.png">
-					</div>
-					<button class="btnS" type="button">LEARN MORE</button>
+			<div class="container">
+				<div class="in-container-header">
+					<p>How We Do</p>
+					<img src="assets/images/stroke.png">
 				</div>
-			</div>                               
+				<div class="container-item">
+					<h3>
+						<span class="black">Achieving<br>Real Results for Our
+							Clients
+						</span>
+					</h3>
+					<h3 class="trim">
+						<strong>Our solutions are strategic and based on
+							analytical discovery</strong>
+					</h3>
+					<div class="img-box m-width">
+						<div class="item col-md-4">
+							<img src="assets/images/best1.png">
+						</div>
+						<div class="item col-md-4">
+							<img src="assets/images/best1.png">
+						</div>
+						<div class="item col-md-4">
+							<img src="assets/images/best1.png">
+						</div>
+						<button class="btnS" type="button">LEARN MORE</button>
+					</div>
+				</div>
+			</div>
 		</div>
-		</div>
-	<%@ include file="include/footer.jsp"%>
+		<%@ include file="include/footer.jsp"%>
 	</div>
 	<script src="assets/js/jquery-1.9.1.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
