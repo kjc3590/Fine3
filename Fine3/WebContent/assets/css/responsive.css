@@ -1,3 +1,5 @@
+@CHARSET "UTF-8";
+
 /* @media screen and (min-width: 721px) and (max-width:725px) {
 .description h1:after {
 		bottom:140px;
@@ -23,36 +25,34 @@
 	}
 }
 
-@media screen and (max-width:1199px){
-	.container .container-item .w-content2{
-		padding : 9.5vh 0rem 0 2.65rem;
+@media screen and (max-width:1199px) {
+	.container .container-item .w-content2 {
+		padding: 9.5vh 0rem 0 2.65rem;
 	}
 }
-@media screen and (max-width:991px){
-	.container .container-item .w-content2{
-		padding : 4.5vh 0rem 0 2.65rem ;
+
+@media screen and (max-width:991px) {
+	.container .container-item .w-content2 {
+		padding: 4.5vh 0rem 0 2.65rem;
 	}
 }
-@media screen and (max-width:376px){
-	.container .container-item .w-content2{
-		padding : 2.5vh 0rem 0 2.65rem;
+
+@media screen and (max-width:376px) {
+	.container .container-item .w-content2 {
+		padding: 2.5vh 0rem 0 2.65rem;
 	}
 }
 
 @media screen and (min-width:320px) and (max-width:374px) {
-	
 	#owl-demo .item .owl-overlay {
 		width: 76% !important;
 		margin: 0 12% !important;
 	}
-	
 	#owl-demo .item .owl-overlay img {
 		padding-top: 6.2vh !important;
 	}
-	
 }
 
-	
 @media screen and (min-width:375px) and (max-width:425px) {
 	#owl-demo .item .owl-overlay {
 		width: 68% !important;
@@ -75,12 +75,12 @@
 	}
 }
 
+
 @media screen and (max-width:480px) {
 	.container .container-item img {
-		max-height: 36vh;
+		max-height:36vh;
 	}
 }
-
 @media screen and (min-width:320px) and (max-width:375px) {
 	.in-content .viewmore {
 		width: 50%;
@@ -151,16 +151,21 @@
 }
 
 @media screen and (min-width:481px) and (max-width:767px) {
-	.img-box .item {
-		padding: 0 14% 0 14%;
-	}
-	.ovr-3 {
-		padding: 7.5% 0 0 0 !important;
-	}
-	.ovr-3 h2 {
-		line-height: 4.6vw !important;
-	}
+
+.img-box .item {
+		padding:0 14% 0 14%;
 }
+
+.ovr-3 {
+	padding:7.5% 0 0 0 !important;
+}
+
+.ovr-3 h2 {
+	line-height:4.6vw !important;
+}
+
+}
+
 
 @media screen and (min-width:481px) and (max-width:540px) {
 	.in-content .viewmore {
@@ -407,7 +412,7 @@
 	}
 }
 
-/* 占쌔쇽옙占쏙옙占쏙옙占쏙옙占쏙옙 */
+/* 넥서스반응형 */
 @media screen and (width:412px) and (height:732px) {
 	.carousel-inner>.item>img {
 		min-height: 495px;
@@ -417,21 +422,21 @@
 	}
 }
 
-/* 占쏙옙占쏙옙占쏙옙 5 */
+/* 아이폰 5 */
 @media screen and (width:320px) and (height:568px) {
 	.mgb-25 {
 		margin-bottom: 20px;
 	}
 }
 
-/* 占쏙옙占쏙옙占쏙옙 5 */
+/* 아이폰 5 */
 @media screen and (width:375px) and (height:667px) {
 	.mgb-25 {
 		margin-bottom: 40px;
 	}
 }
 
-/* 占쏙옙占쏙옙占쏙옙 6  */
+/* 아이폰 6  */
 @media screen and (width:414px) and (height:736px) {
 	.carousel-inner>.item>img {
 		min-height: 495px;
@@ -444,7 +449,7 @@
 	}
 }
 
-/* 占쏙옙占쏙옙占싻듸옙  */
+/* 아이패드  */
 @media screen and (width:768px) and (height:1024px) {
 	.navbar-header {
 		margin-left: 20px;
@@ -470,7 +475,7 @@
 	}
 }
 
-/* 占쏙옙占쏙옙占싻듸옙  */
+/* 아이패드  */
 @media screen and (width:1024px) and (height:1366px) {
 	.mgb-25 {
 		margin-bottom: 55px;
@@ -491,6 +496,7 @@
 		margin-left: 20px;
 	}
 }
+
 
 @media screen and (max-width:767px) {
 	#owl-demo .item .owl-overlay img {
@@ -625,11 +631,13 @@
 		padding-top: 7.5vh;
 	}
 	#owl-demo .item .ovr-2 h2 {
-		font-size: 3.45vw;
+		font-size:3.45vw;
 	}
+	
 	.ovr-3 h2 {
-		line-height: 4.9vw !important;
+		line-height:4.9vw !important;
 	}
+	
 }
 
 /* 
