@@ -406,6 +406,7 @@ a {
 	
 	border-bottom-right-radius: 6.7%;
 	max-height:36vh;
+	width : 100%;
 }
 
 .container .container-item .w-img {
@@ -428,7 +429,6 @@ a {
 }
 
 .container .container-item .w-content2 {
-	height: 26.5vh;
 	padding: 14.5vh 0rem 0 2.65rem;
 	text-align: left;
 }

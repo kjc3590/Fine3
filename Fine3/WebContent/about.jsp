@@ -49,54 +49,66 @@
 						Researching User's Design Patterns and Analysing BigDATA
 					</h3>
 					<div class="img-box">
-						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 col-xs-6 border-custom" src="assets/images/best2.png">
-							<div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
-						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 col-xs-6 border-custom2"
-								src="assets/images/best2.png">
-							<div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
-						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 col-xs-6 border-custom2"
-								src="assets/images/best2.png">
-							<div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
-						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 col-xs-6 border-custom2"
-								src="assets/images/best2.png">
-							<div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
-						<div class="item col-md-6 no-padding">
-							<img class="col-md-6 col-xs-6 border-custom" src="assets/images/best2.png">
-							<div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
-						<!-- <div class="item col-md-6 no-padding"><img class="col-md-6 border-custom2" src="assets/images/best2.png"><div class="col-md-6 w-content2">
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-1.png">
+							</div>
+							<div class="col-md-6 w-content2" style ="padding-left : 0;">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
-							</div></div> -->
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
