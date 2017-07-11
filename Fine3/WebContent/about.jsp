@@ -29,8 +29,9 @@
 				<div class="container-item">
 					<div class="col-md-6 no-padding">
 						<h2 class="about">
-							<strong class="aqua">Insight of Creative</strong><br><strong class="aqua2">Insight of Experience</strong><br><strong class="aqua3">Insight
-							of Confidences</strong>
+							<strong class="aqua">Insight of Creative</strong><br>
+							<strong class="aqua2">Insight of Experience</strong><br>
+							<strong class="aqua3">Insight of Confidences</strong>
 						</h2>
 					</div>
 					<div class="col-md-6 no-padding">
@@ -41,7 +42,7 @@
 				</div>
 				<div class="in-container-header header-top">
 					<p class="b-header h2-aqua">Central Business</p>
-				
+
 				</div>
 				<div class="container-item" style="margin-top: 0;">
 					<h3>
@@ -53,59 +54,49 @@
 							<div class="col-md-6 col-xs-6">
 								<img src="assets/images/about-1.png">
 							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
+							<div class="col-md-6 w-content2" style="padding-left: 0;">
+								<h2>Mobile UX</h2>
+								<span>스마트폰,태블릿 사용자를<br>고려한 모바일 APP 디자인
+								</span>
+							</div>
+						</div>
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-2.png">
+							</div>
+							<div class="col-md-6 w-content2" style="padding-left: 0;">
+								<h2>SW Development</h2>
+								<span>소프트웨어 UI/UX<br>키오스크 및 정보시스템
+								</span>
+							</div>
+						</div>
+						<div class="item col-md-6 col-sm-6 no-padding">
+							<div class="col-md-6 col-xs-6">
+								<img src="assets/images/about-3.png">
+							</div>
+							<div class="col-md-6 w-content2" style="padding-left: 0;">
+								<h2>Web Development</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
 								</span>
 							</div>
 						</div>
 						<div class="item col-md-6 col-sm-6 no-padding">
 							<div class="col-md-6 col-xs-6">
-								<img src="assets/images/about-1.png">
+								<img src="assets/images/about-4.png">
 							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
-								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
+							<div class="col-md-6 w-content2" style="padding-left: 0;">
+								<h2>Branding</h2>
+								<span>CI/BI/HI<br>Editorial Design
 								</span>
 							</div>
 						</div>
 						<div class="item col-md-6 col-sm-6 no-padding">
 							<div class="col-md-6 col-xs-6">
-								<img src="assets/images/about-1.png">
+								<img src="assets/images/about-5.png">
 							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
-								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
-								</span>
-							</div>
-						</div>
-						<div class="item col-md-6 col-sm-6 no-padding">
-							<div class="col-md-6 col-xs-6">
-								<img src="assets/images/about-1.png">
-							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
-								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
-								</span>
-							</div>
-						</div>
-						<div class="item col-md-6 col-sm-6 no-padding">
-							<div class="col-md-6 col-xs-6">
-								<img src="assets/images/about-1.png">
-							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
-								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
-								</span>
-							</div>
-						</div>
-						<div class="item col-md-6 col-sm-6 no-padding">
-							<div class="col-md-6 col-xs-6">
-								<img src="assets/images/about-1.png">
-							</div>
-							<div class="col-md-6 w-content2" style ="padding-left : 0;">
-								<h2>위피아스 모바일</h2>
-								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
+							<div class="col-md-6 w-content2" style="padding-left: 0;">
+								<h2>SNS Planning</h2>
+								<span>Facebook,Blog,Instagram<br>소셜 서비스 플래닝
 								</span>
 							</div>
 						</div>
