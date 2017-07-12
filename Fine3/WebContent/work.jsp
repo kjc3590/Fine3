@@ -31,11 +31,11 @@
 						<span class="black">Provide Creative Solutions</span><br>With
 						Researching User's Design Patterns and Analysing BigDATA
 					</h3>
-					<div class="img-box">
-						<div class="col-md-8 no-padding">
-							<img class="w-img" src="assets/images/best1.png">
+					<div class="img-box m-p">
+						<div class="col-md-8 no-padding mb-20">
+							<img class="w-img" src="assets/images/main-3.png">
 						</div>
-						<div class="item col-md-4 bg-white">
+						<div class="item col-md-4 bg-white w-height">
 							<div class="w-content">
 								<h2>베스티안 병원 홈페이지</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
@@ -43,10 +43,10 @@
 							</div>
 
 						</div>
-						<div class="col-md-8 no-padding">
-							<img class="w-img" src="assets/images/best1.png">
+						<div class="col-md-8 no-padding mb-20">
+							<img class="w-img" src="assets/images/main-3.png">
 						</div>
-						<div class="item col-md-4 bg-white">
+						<div class="item col-md-4 bg-white w-height">
 							<div class="w-content">
 								<h2>위피아스 모바일</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작
@@ -54,10 +54,10 @@
 							</div>
 
 						</div>
-						<div class="col-md-8 no-padding">
-							<img class="w-img" src="assets/images/best1.png">
+						<div class="col-md-8 no-padding mb-20">
+							<img class="w-img" src="assets/images/main-3.png">
 						</div>
-						<div class="item col-md-4 bg-white">
+						<div class="item col-md-4 bg-white w-height">
 							<div class="w-content">
 								<h2>라임탭HIS</h2>
 								<span>다양한 미디어 환경에 따라<br>맞춤 반응형 웹사이트 제작

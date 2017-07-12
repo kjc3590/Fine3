@@ -78,7 +78,7 @@
 
 @media screen and (max-width:480px) {
 	.container .container-item img {
-		max-height:36vh;
+	/* 	max-height:36vh; */
 	}
 }
 @media screen and (min-width:320px) and (max-width:375px) {
@@ -163,6 +163,12 @@
 .ovr-3 h2 {
 	line-height:4.6vw !important;
 }
+
+.m-p {
+	padding:0 14% 0 14%;
+}
+
+
 
 }
 
@@ -588,8 +594,7 @@
 		font-size: 1.7rem;
 	}
 	.container .container-item .w-content {
-		height: 16vh;
-		padding: 0vh 14rem 0 2vw;
+	
 	}
 	.container .container-item .w-img {
 		margin-bottom: 0;
@@ -639,6 +644,27 @@
 	}
 	
 }
+
+@media screen and (min-width:992px) {
+		.container .container-item .w-content {
+			padding:13.4vw 0 0 2vw;
+		}
+		
+		.container .container-item .w-img {
+			
+			max-height:21vw !important;
+		}
+		
+		.w-height {
+		
+			height:21vw !important;
+		}
+	}
+	
+	
+	
+
+
 
 /* 
 @media screen and (max-width:768px) and (max-width:725px) {
