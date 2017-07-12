@@ -406,6 +406,7 @@ a {
 .container .container-item .img-box {
 	text-align: center;
 	margin-top: 5rem;
+	overflow:hidden;
 }
 
 .container .container-item .w-content {
@@ -631,4 +632,9 @@ a {
 .w-height {
 	
 }
+
+.w-imgsection {
+	padding:0
+}
+
 
