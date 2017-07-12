@@ -642,7 +642,11 @@
 	.ovr-3 h2 {
 		line-height:4.9vw !important;
 	}
-	
+}
+@media screen and (max-width : 768px){
+	.img-workbox{
+		display : block;
+	}
 }
 
 @media screen and (min-width:992px) {

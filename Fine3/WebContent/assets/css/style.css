@@ -398,7 +398,6 @@ a {
 
 .container .container-item .w-img {
 	border-bottom-right-radius: 0;
-	/* margin-bottom: 20px; */
 	width: 100%;
 	
 }
@@ -414,7 +413,7 @@ a {
 }
 
 .container .container-item .w-content2 {
-	padding: 14.5vh 0rem 0 2.65rem;
+	/* padding: 14.5vh 0rem 0 2.65rem; */
 	text-align: left;
 }
 
@@ -439,9 +438,8 @@ a {
 }
 
 .img-box .item {
-	display: flex;
-	height: auto;
-	margin-bottom: 20px;
+	display:flex;
+	padding-bottom : 20px;
 }
 
 .container .container-item .btnS {
@@ -637,4 +635,9 @@ a {
 	padding:0
 }
 
+.img-workbox {
+    display: flex;
+    overflow: hidden;
+    padding-bottom : 30px;
+}
 
