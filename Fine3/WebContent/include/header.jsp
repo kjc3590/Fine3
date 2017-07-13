@@ -16,7 +16,7 @@
 			<li><a id="aboutmove" href="about.jsp">ABOUT</a></li>
 			<li><a id="worksmove" href="work.jsp">WORKS</a></li>
 			<li><a id="contactmove" href="contact.jsp">CONTACT</a></li>
-			<li><a href="#">PDF</a></li>
+			<li><a href="https://drive.google.com/file/d/0B3zspoXx7b8NNkVUR1dhNWlrM2s/view?usp=sharing">PDF</a><i class="none fa fa-download"></i></li>
 		</ul>
 	</div>
 

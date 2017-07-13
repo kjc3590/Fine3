@@ -410,6 +410,8 @@ a {
 
 .container .container-item .w-content {
 	text-align: left;
+	/* padding-top:3vw;
+	padding-bottom:3vw; */
 }
 
 .container .container-item .w-content2 {
@@ -423,6 +425,7 @@ a {
 	letter-spacing: 0px;
 	font-weight: 600;
 	color: rgb(66, 191, 235);
+	margin-top:0;
 }
 
 .container .container-item .w-content2 h2 {
@@ -639,5 +642,10 @@ a {
     display: flex;
     overflow: hidden;
     padding-bottom : 30px;
+}
+
+.none {
+	display:none;
+	color:black;
 }
 
